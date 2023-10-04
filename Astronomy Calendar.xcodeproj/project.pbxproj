@@ -15,6 +15,7 @@
 		A0BE84A82ACC118C00C51E66 /* AstronomyEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BE84A72ACC118C00C51E66 /* AstronomyEventView.swift */; };
 		A0BE84AE2ACC232A00C51E66 /* EventViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BE84AD2ACC232A00C51E66 /* EventViewModel.swift */; };
 		A0BE84B02ACC326B00C51E66 /* todo.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A0BE84AF2ACC326B00C51E66 /* todo.rtf */; };
+		A0BE84C42ACD197400C51E66 /* events.json in Resources */ = {isa = PBXBuildFile; fileRef = A0BE84B92ACD162000C51E66 /* events.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -139,6 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0BE84C42ACD197400C51E66 /* events.json in Resources */,
 				A0BE84B02ACC326B00C51E66 /* todo.rtf in Resources */,
 				A0BE849F2ACC10FE00C51E66 /* Preview Assets.xcassets in Resources */,
 				A0BE849C2ACC10FE00C51E66 /* Assets.xcassets in Resources */,
