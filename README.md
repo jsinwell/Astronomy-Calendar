@@ -16,3 +16,11 @@ A mobile application designed to provide users with detailed information on upco
 - Use the search bar at the top to search for specific events.
 - Tap on an event to view more details and an associated image (TODO).
 - Scroll through the list to explore more events for the entire year.
+
+## Images
+
+Home Screen            |  Clicking on Event
+:-------------------------:|:-------------------------:
+![](https://github.com/jsinwell/Astronomy-Calendar/assets/71615989/5c225802-adf6-46ce-b187-56941b1c54b2)  |  ![](https://github.com/jsinwell/Astronomy-Calendar/assets/71615989/c1bd74f1-cd3e-4e01-9010-9410bad1e256)
+
+
